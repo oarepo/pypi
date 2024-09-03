@@ -8,5 +8,3 @@ pip install -U setuptools pip wheel
 pip install -U piprepo
 
 piprepo build packages
-rm -rf simple
-mv packages/simple .
